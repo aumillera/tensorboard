@@ -17,9 +17,9 @@ const style = document.createElement('style');
 style.setAttribute('is', 'custom-style');
 style.textContent = `
   :root {
-    --tb-orange-weak: #ffa726;
-    --tb-orange-strong: #f57c00;
-    --tb-orange-dark: #dc7320;
+    --tb-orange-weak: #BDBDBD;
+    --tb-orange-strong: #616161;
+    --tb-orange-dark: #424242;
     --tb-grey-darker: #e2e2e2;
     --tb-grey-lighter: #f3f3f3;
     --tb-ui-dark-accent: #757575;
