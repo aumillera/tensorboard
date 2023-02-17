@@ -62,7 +62,6 @@ $_accent: map-get(mat.get-color-config($tb-theme), accent);
 
   .row-circle > span {
     border-radius: 50%;
-    border: 1px solid rgba(255, 255, 255, 0.4);
     display: inline-block;
     // Subtract by border width (1px on both sides)
     height: $_circle-size - 2px;

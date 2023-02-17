@@ -23,7 +23,6 @@ limitations under the License.
 }
 
 .toolbar {
-  @include tb-theme-foreground-prop(border-bottom, border, 1px solid);
   flex: none;
   display: flex;
   align-items: center;
@@ -36,7 +35,6 @@ limitations under the License.
   }
 
   .right-items {
-    @include tb-theme-foreground-prop(border-left, border, 1px solid);
     margin-left: $metrics-preferred-gap;
     padding-left: $metrics-preferred-gap;
   }

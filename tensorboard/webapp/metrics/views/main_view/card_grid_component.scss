@@ -45,8 +45,8 @@ $_background: map-get($tb-theme, background);
 }
 
 card-view {
-  @include tb-theme-foreground-prop(border, border, 1px solid);
-  border-radius: 4px;
+  // @include tb-theme-foreground-prop(border, border, 1px solid);
+  border-radius: 8px;
   box-sizing: border-box;
   contain: layout paint;
   display: block;
