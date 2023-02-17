@@ -36,7 +36,7 @@ CONSOLE_SCRIPTS = [
 ]
 
 setup(
-    name="tensorboard",
+    name="tensorboard-light",
     version=tensorboard.version.VERSION.replace("-", ""),
     description="TensorBoard lets you watch Tensors Flow",
     long_description=get_readme(),
