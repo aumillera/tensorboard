@@ -1,5 +1,10 @@
 # TensorBoard [![GitHub Actions CI](https://github.com/tensorflow/tensorboard/workflows/CI/badge.svg)](https://github.com/tensorflow/tensorboard/actions?query=workflow%3ACI+branch%3Amaster+event%3Apush) [![GitHub Actions Nightly CI](https://github.com/tensorflow/tensorboard/workflows/nightly-release/badge.svg)](https://github.com/tensorflow/tensorboard/actions?query=workflow%3Anightly-release+branch%3Amaster) [![PyPI](https://badge.fury.io/py/tensorboard.svg)](https://badge.fury.io/py/tensorboard)
 
+**Note: This is a lightly themed Tensorboard fork for all those who think the default orange comes off too strong.**
+
+![image](https://user-images.githubusercontent.com/69473992/219656597-ee14061d-6cdc-499a-be9f-cd319cf9b3a7.png)
+
+
 TensorBoard is a suite of web applications for inspecting and understanding your
 TensorFlow runs and graphs.
 
